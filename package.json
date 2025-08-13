@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A simple organic online shop website built with React",
   "private": true,
-  "homepage": "https://deependrakashyapp.github.io/milosakti",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

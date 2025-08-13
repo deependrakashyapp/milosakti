@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deependrakashyapp/milosakti/static/css/main.d206a925.css",
+    "main.js": "/deependrakashyapp/milosakti/static/js/main.23cadf7b.js",
+    "index.html": "/deependrakashyapp/milosakti/index.html",
+    "main.d206a925.css.map": "/deependrakashyapp/milosakti/static/css/main.d206a925.css.map",
+    "main.23cadf7b.js.map": "/deependrakashyapp/milosakti/static/js/main.23cadf7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d206a925.css",
+    "static/js/main.23cadf7b.js"
+  ]
+}
